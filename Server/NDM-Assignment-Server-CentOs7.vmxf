@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 2f af c9 19 27 6d 81-e9 f9 29 7c 9f 49 de 4d</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">NDM-Assignment-Server-CentOs7.vmx</vmxPathName></VM></Foundry>
